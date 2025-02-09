@@ -14,7 +14,8 @@ type
    ArrayAngkaKLR = array[1..MaksPengeluaranBarang] of integer;
    ArrayStringKLR = array[1..MaksPengeluaranBarang] of string;
 var
-   a
+   aku
+   
 
 
 begin
